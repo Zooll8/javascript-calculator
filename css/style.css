@@ -1,0 +1,92 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F8F8FF;
+}
+
+.main {
+  background-color: #107896;
+  height: 400px;
+  margin: 100px auto;
+  min-width: 320px;
+  width: 320px;
+  -webkit-box-shadow: 5px 5px 20px 7px rgba(0, 0, 0, 0.46);
+  -moz-box-shadow: 5px 5px 20px 7px rgba(0, 0, 0, 0.46);
+  box-shadow: 5px 5px 20px 7px rgba(0, 0, 0, 0.46);
+  border-radius: 5px;
+}
+
+.main p {
+  color: white;
+  text-transform: capitalize;
+  margin-top: 8px;
+  font-size: 18px;
+  margin-bottom: 2px;
+}
+
+#otvetblank {
+  border-radius: 5px;
+  border: 1px solid grey;
+  background-color: white;
+  margin-left: 6px;
+  margin-right: 6px;
+  padding: 0 5px;
+  height: 50px;
+  margin-bottom: 6px;
+}
+
+#otvet {
+  font-size: 32px;
+  margin-top: -5px;
+}
+
+#otvetvnizu {
+  font-size: 12px;
+  height: 10px;
+  margin-top: -12px;
+}
+
+.def {
+  width: 60px;
+  height: 50px;
+  margin: 4px;
+  border: 1
+}
+
+.vverh {
+  width: 60px;
+  height: 111px;
+  position: absolute;
+  margin-top: 4px;
+  margin-left: 8px;
+}
+
+.vpravo {
+  position: absolute;
+  width: 132px;
+  height: 50px;
+  margin-top: 65px;
+  margin-left: -208px;
+}
+
+.tt {
+  positon: absolute;
+  padding-left: 3px;
+}
+
+.tochka {
+  width: 60px;
+  height: 50px;
+  margin: 4px;
+  position: absolute;
+  margin-top: 65px;
+  margin-left: -64px;
+}
+
+#coded {
+  margin-top: -60px;
+  font-size: 17px;
+}
+
+#tttt:hover {
+  text-decoration: none;
+}
